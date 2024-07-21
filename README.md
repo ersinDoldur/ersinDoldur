@@ -8,8 +8,9 @@
 
 ### 📫 How to reach me  :
 
-[![Linkedin Badge](https://img.shields.io/badge/canozyigit-%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ersindoldur/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dldr.ersin@gmail.com)                                                                                                                                              
+[![Linkedin Badge](https://img.shields.io/badge/ersindoldur-%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ersindoldur/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dldr.ersin@gmail.com) 
+
 ### Languages and Tools ⚒ :
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
